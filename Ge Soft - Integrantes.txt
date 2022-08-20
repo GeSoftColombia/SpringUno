@@ -7,3 +7,10 @@ Ivan Alexander Chávez Figueroa.
 Ana Karina Hernández Ternera.
 Carlos Mario Madrigal Arboleda.
 Óscar Fernando Ávila Rodríguez.
+
+Rol:
+Scrum Master
+Líder Backend
+Lider Frontend
+Lider Analista tester
+Lider BBDD
