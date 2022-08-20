@@ -10,3 +10,4 @@ Carlos Mario Madrigal Arboleda.
 
 Rol:
 Scrum Master
+Líder Backend
