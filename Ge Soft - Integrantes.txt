@@ -12,3 +12,4 @@ Rol:
 Scrum Master
 Líder Backend
 Lider Frontend
+Lider Analista tester
