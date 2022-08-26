@@ -1,4 +1,5 @@
 package Empresa;
+import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class MovimientoDinero {
@@ -61,5 +62,12 @@ public class MovimientoDinero {
 
     public void setFecha(Date fecha) {
         this.fecha = fecha;
+    }
+
+    //Metodo Fecha
+    public String formatoFecha(){
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+        String fechaFormateada = sdf.format(fecha);
+        return fechaFormateada;
     }
 }
