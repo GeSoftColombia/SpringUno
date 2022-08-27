@@ -20,9 +20,6 @@ public class Empresa {
         this.telefonoEmpresa = telefonoEmpresa;
     }
 
-    public Empresa(String nitEmpresa) {
-    }
-
     public Empresa (){
     }
 
