@@ -19,7 +19,12 @@ public class Empleado {
         this.correoEmpleado = correoEmpleado;
         this.rolEmpleado = rolEmpleado;
     }
-    // Setter y getters
+    
+    public Empleado{
+    }
+    
+    
+    // Setters & getters
 
 
     public String getDocumentoEmpleado() {
