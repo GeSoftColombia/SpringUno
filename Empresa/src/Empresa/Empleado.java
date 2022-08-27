@@ -20,7 +20,7 @@ public class Empleado {
         this.rolEmpleado = rolEmpleado;
     }
     
-    public Empleado{
+    public Empleado(){
     }
     
     
