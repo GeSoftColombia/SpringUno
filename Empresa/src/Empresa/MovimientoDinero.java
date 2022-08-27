@@ -20,6 +20,9 @@ public class MovimientoDinero {
         this.egresos = egresos;
         this.fecha = fecha;
     }
+    
+    public MovimientoDinero(){
+    }
 
     //Métodos getters y setters
 
