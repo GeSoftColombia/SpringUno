@@ -7,13 +7,13 @@ public class MovimientoDinero {
     //Atributos
     private int idMovimiento;
     private String conceptoMovimiento;
-    private int ingresos;
-    private int egresos;
+    private double ingresos;
+    private double egresos;
     private Date fecha;
 
     //Método constructor
 
-    public MovimientoDinero(int idMovimiento, String conceptoMovimiento, int ingresos, int egresos, Date fecha) {
+    public MovimientoDinero(int idMovimiento, String conceptoMovimiento, double ingresos, double egresos, Date fecha) {
         this.idMovimiento = idMovimiento;
         this.conceptoMovimiento = conceptoMovimiento;
         this.ingresos = ingresos;
@@ -45,19 +45,19 @@ public class MovimientoDinero {
         this.conceptoMovimiento = conceptoMovimiento;
     }
 
-    public int getIngresos() {
+    public double getIngresos() {
         return ingresos;
     }
 
-    public void setIngresos(int ingresos) {
+    public void setIngresos(double ingresos) {
         this.ingresos = ingresos;
     }
 
-    public int getEgresos() {
+    public double getEgresos() {
         return egresos;
     }
 
-    public void setEgresos(int egresos) {
+    public void setEgresos(double egresos) {
         this.egresos = egresos;
     }
 
