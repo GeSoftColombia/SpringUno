@@ -20,6 +20,11 @@ public class MovimientoDinero {
         this.egresos = egresos;
         this.fecha = fecha;
     }
+    //Metodo constructor vacio
+
+    public MovimientoDinero() {
+    }
+
 
     //Métodos getters y setters
 

@@ -40,7 +40,5 @@ public class Main {
         System.out.println("La fecha del movimiento es: " + " " + mov1.formatoFecha());
         System.out.println("--------------------------------------");
 
-
-
     }
 }
